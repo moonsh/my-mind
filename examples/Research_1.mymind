@@ -1,0 +1,95 @@
+{
+	"root": {
+		"id": "rjwvzhfk",
+		"text": "Research",
+		"notes": "",
+		"layout": "map",
+		"children": [
+			{
+				"id": "luoroybi",
+				"text": "Active Learning",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "thdtwhqm",
+						"text": "<span style=\"font-size: 14px;\">Active Learning on a Budget: Opposite Strategies Suit High and Low Budgets, ICML 2022</span>",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "vdewpfwh",
+				"text": "Few-Shot Segmentation",
+				"notes": "",
+				"side": "left",
+				"color": "#3dd",
+				"children": [
+					{
+						"id": "eghttrnp",
+						"text": "<span style=\"font-size: 14px;\">LLaFS: When Large Language Models Meet Few-Shot Segmentation, CVPR 2024</span>",
+						"notes": ""
+					},
+					{
+						"id": "gjyekrgp",
+						"text": "<span style=\"font-size: 14px;\">Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation, CVPR 2024</span>",
+						"notes": ""
+					},
+					{
+						"id": "unfqnfoq",
+						"text": "<span style=\"font-size: 14px;\">VRP-SAM: SAM with Visual Reference Prompt, CVPR 2024</span>",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "ksczjkwy",
+				"text": "In-Context Visual Learning",
+				"notes": "",
+				"side": "right",
+				"color": "#d3d",
+				"children": [
+					{
+						"id": "fjndvofn",
+						"text": "<span style=\"font-size: 14px;\">SegGPT: Segmenting Everything In Context, ICCV 2023</span>",
+						"notes": ""
+					},
+					{
+						"id": "zuqwgnqi",
+						"text": "<span style=\"font-size: 14px;\">Images Speak in Images: A Generalist Painter for In-Context Visual Learning, CVPR 2023</span>",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "oryibadt",
+				"text": "MultiModal",
+				"notes": "",
+				"side": "left",
+				"color": "#fa3",
+				"children": [
+					{
+						"id": "bflowxcs",
+						"text": "<span style=\"font-size: 14px;\">LISA: Reasoning Segmentation via Large Language Model, CVPR 2024</span>",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "qnskcudc",
+				"text": "3D Pose Estimation",
+				"notes": "",
+				"side": "right",
+				"color": "#33e",
+				"textColor": "#000",
+				"children": [
+					{
+						"id": "rfdtzfvi",
+						"text": "<span style=\"font-size: 14px;\">Active Learning on a Budget: Opposite Strategies Suit High and Low Budgets, ICML 2022</span>",
+						"notes": ""
+					}
+				]
+			}
+		]
+	}
+}
