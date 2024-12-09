@@ -1,0 +1,16 @@
+{
+	"root": {
+		"id": "hudqlsak",
+		"text": "My Mind Map",
+		"notes": "",
+		"layout": "map",
+		"children": [
+			{
+				"id": "yuywqffz",
+				"text": "sadasd",
+				"notes": "",
+				"side": "right"
+			}
+		]
+	}
+}
